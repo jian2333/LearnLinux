@@ -16,69 +16,69 @@
 ### 目录
 
 1. 文件目录操作命令：
-   1. linux命令（1）：ls 命令；
-   2. linux命令（2）：cd 命令；
-   3. linux命令（3）：pwd 命令；
-   4. linux命令（4）：mkdir 命令；
-   5. linux命令（5）：rm 命令；
-   6. linux命令（6）：rmdir 命令；
-   7. linux命令（7）：mv 命令；
-   8. linux命令（8）：cp 命令；
-   9. linux命令（9）：touch 命令；
-   10. linux命令（10）：cat 命令；
-   11. linux命令（11）：nl 命令；
-   12. linux命令（12）：more 命令；
-   13. linux命令（13）：less 命令；
-   14. linux命令（14）：head 命令；
-   15. linux命令（15）：tail 命令；
+   1. [linux命令（1）：ls 命令](http://www.jianwill.cn/md/linux/ls.html)
+   2. linux命令（2）：cd 命令
+   3. linux命令（3）：pwd 命令
+   4. linux命令（4）：mkdir 命令
+   5. linux命令（5）：rm 命令
+   6. linux命令（6）：rmdir 命令
+   7. linux命令（7）：mv 命令
+   8. linux命令（8）：cp 命令
+   9. linux命令（9）：touch 命令
+   10. linux命令（10）：cat 命令
+   11. linux命令（11）：nl 命令
+   12. linux命令（12）：more 命令
+   13. linux命令（13）：less 命令
+   14. linux命令（14）：head 命令
+   15. linux命令（15）：tail 命令
 2. 文件查找命令
-   1. linux命令（16）：which 命令；
-   2. linux命令（17）：whereis 命令；
-   3. linux命令（18）：locate 命令；
-   4. linux命令（19）：find 命令概览；
-   5. linux命令（20）：find 命令之 exec；
-   6. linux命令（21）：find 命令之 xargs；
-   7. linux命令（22）：find 命令的参数详解；
+   1. linux命令（16）：which 命令
+   2. linux命令（17）：whereis 命令
+   3. linux命令（18）：locate 命令
+   4. linux命令（19）：find 命令概览
+   5. linux命令（20）：find 命令之 exec
+   6. linux命令（21）：find 命令之 xargs
+   7. linux命令（22）：find 命令的参数详解
 3. 文件和目录属性
-   1. linux命令（23）：Linux 目录结构；
-   2. linux命令（24）：Linux 文件类型与扩展名；
-   3. linux命令（25）：Linux 文件属性详解；
+   1. linux命令（23）：Linux 目录结构
+   2. linux命令（24）：Linux 文件类型与扩展名
+   3. linux命令（25）：Linux 文件属性详解
 4. 文件打包上传和下载
    1. linux命令（26）：SecureCRT 上传和下载
-   2. linux命令（28）：tar 命令；
-   3. linux命令（32）：gzip 命令；
+   2. linux命令（28）：tar 命令
+   3. linux命令（32）：gzip 命令
 5. Linux文件权限设置
-   1. linux命令（27）：chmod 命令；
-   2. linux命令（29）：chgrp 命令；
-   3. linux命令（30）：chown 命令；
-   4. linux命令（31）：/etc/group 文件详解；
+   1. linux命令（27）：chmod 命令
+   2. linux命令（29）：chgrp 命令
+   3. linux命令（30）：chown 命令
+   4. linux命令（31）：/etc/group 文件详解
 6. 磁盘存储相关
-   1. linux命令（33）：df 命令；
-   2. linux命令（34）：du 命令；
+   1. linux命令（33）：df 命令
+   2. linux命令（34）：du 命令
 7. 性能监控和优化命令
-   1. linux命令（44）：top 命令；
-   2. linux命令（45）：free 命令；
-   3. linux命令（46）：vmstat 命令；
-   4. linux命令（47）：iostat 命令；
-   5. linux命令（51）：lsof 命令；
+   1. linux命令（44）：top 命令
+   2. linux命令（45）：free 命令
+   3. linux命令（46）：vmstat 命令
+   4. linux命令（47）：iostat 命令
+   5. linux命令（51）：lsof 命令
 8. 网络命令
-   1. linux命令（52）：ifconfig 命令；
-   2. linux命令（53）：route 命令；
-   3. linux命令（54）：ping 命令；
-   4. linux命令（55）：traceroute 命令；
-   5. linux命令（56）：netstat 命令；
-   6. linux命令（57）：ss 命令；
-   7. linux命令（58）：telnet 命令；
-   8. linux命令（59）：rcp 命令；
-   9. linux命令（60）：scp命令；
+   1. linux命令（52）：ifconfig 命令
+   2. linux命令（53）：route 命令
+   3. linux命令（54）：ping 命令
+   4. linux命令（55）：traceroute 命令
+   5. linux命令（56）：netstat 命令
+   6. linux命令（57）：ss 命令
+   7. linux命令（58）：telnet 命令
+   8. linux命令（59）：rcp 命令
+   9. linux命令（60）：scp命令
 9. 其他命令
-   1. linux命令（35）：ln 命令；
-   2. linux命令（36）：diff 命令；
-   3. linux命令（37）：date 命令；
-   4. linux命令（38）：cal 命令；
-   5. linux命令（39）：grep 命令；
-   6. linux命令（40）：wc 命令；
-   7. linux命令（41）：ps 命令；
-   8. linux命令（48）：watch 命令；
-   9. linux命令（49）：at 命令；
-   10. linux命令（50）：crontab 命令；
+   1. linux命令（35）：ln 命令
+   2. linux命令（36）：diff 命令
+   3. linux命令（37）：date 命令
+   4. linux命令（38）：cal 命令
+   5. linux命令（39）：grep 命令
+   6. linux命令（40）：wc 命令
+   7. linux命令（41）：ps 命令
+   8. linux命令（48）：watch 命令
+   9. linux命令（49）：at 命令
+   10. linux命令（50）：crontab 命令
