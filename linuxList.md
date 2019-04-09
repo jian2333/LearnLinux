@@ -19,7 +19,7 @@
    1. [linux命令（1）：ls 命令](http://www.jianwill.cn/md/linux/ls.html)
    2. [linux命令（2）：cd 命令](http://www.jianwill.cn/md/linux/cd.html)
    3. [linux命令（3）：pwd 命令](http://www.jianwill.cn/md/linux/pwd.html)
-   4. linux命令（4）：mkdir 命令
+   4. [linux命令（4）：mkdir 命令](http://www.jianwill.cn/md/linux/mkdir.html)
    5. linux命令（5）：rm 命令
    6. linux命令（6）：rmdir 命令
    7. linux命令（7）：mv 命令
