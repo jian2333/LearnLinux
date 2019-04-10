@@ -22,7 +22,7 @@
    4. [linux命令（4）：mkdir 命令](http://www.jianwill.cn/md/linux/mkdir.html)
    5. [linux命令（5）：rm 命令](http://www.jianwill.cn/md/linux/rm.html)
    6. [linux命令（6）：rmdir 命令](http://www.jianwill.cn/md/linux/rmdir.html)
-   7. linux命令（7）：mv 命令
+   7. [linux命令（7）：mv 命令](http://www.jianwill.cn/md/linux/mv.html)
    8. linux命令（8）：cp 命令
    9. linux命令（9）：touch 命令
    10. linux命令（10）：cat 命令
