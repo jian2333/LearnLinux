@@ -26,7 +26,7 @@
    8. [linux命令（8）：cp 命令](http://www.jianwill.cn/md/linux/cp.html)
    9. [linux命令（9）：touch 命令](http://www.jianwill.cn/md/linux/touch.html)
    10. [linux命令（10）：cat 命令](http://www.jianwill.cn/md/linux/cat.html)
-   11. linux命令（11）：nl 命令
+   11. [linux命令（11）：nl 命令](http://www.jianwill.cn/md/linux/nl.html)
    12. linux命令（12）：more 命令
    13. linux命令（13）：less 命令
    14. linux命令（14）：head 命令
