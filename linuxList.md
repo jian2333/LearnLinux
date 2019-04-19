@@ -34,7 +34,7 @@
 2. 文件查找命令
    1. [linux命令（16）：which 命令](http://www.jianwill.cn/md/linux/which.html)
    2. [linux命令（17）：whereis 命令](http://www.jianwill.cn/md/linux/whereis.html)
-   3. linux命令（18）：locate 命令
+   3. [linux命令（18）：locate 命令](http://www.jianwill.cn/md/linux/locate.html)
    4. linux命令（19）：find 命令概览
    5. linux命令（20）：find 命令之 exec
    6. linux命令（21）：find 命令之 xargs
