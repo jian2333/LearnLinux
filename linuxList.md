@@ -6,6 +6,7 @@
 
 ### 补充
 
+- **./image** ：当前目录下的 image；
 - **image** ：当前目录下的 image；
 - **/image** ：系统根目录下的 image；
 - **注意**，Linux里直接使用 **/** 是表示系统根目录，不是当前目录下；
@@ -40,7 +41,7 @@
    6. [linux命令（21）：find 命令之 xargs](http://www.jianwill.cn/md/linux/find-xargs.html)
    7. [linux命令（22）：find 命令的参数详解](http://www.jianwill.cn/md/linux/find-indetail.html)
 3. 文件和目录属性
-   1. linux命令（23）：Linux 目录结构
+   1. [linux命令（23）：Linux 目录结构](http://www.jianwill.cn/md/linux/linux-directory.html)
    2. linux命令（24）：Linux 文件类型与扩展名
    3. linux命令（25）：Linux 文件属性详解
 4. 文件打包上传和下载
