@@ -42,7 +42,7 @@
    7. [linux命令（22）：find 命令的参数详解](http://www.jianwill.cn/md/linux/find-indetail.html)
 3. 文件和目录属性
    1. [linux命令（23）：Linux 目录结构](http://www.jianwill.cn/md/linux/linux-directory.html)
-   2. linux命令（24）：Linux 文件类型与扩展名
+   2. [linux命令（24）：Linux 文件类型与扩展名](http://www.jianwill.cn/md/linux/linux-filetype.html)
    3. linux命令（25）：Linux 文件属性详解
 4. 文件打包上传和下载
    1. linux命令（26）：SecureCRT 上传和下载
