@@ -45,7 +45,7 @@
    2. [linux命令（24）：Linux 文件类型与扩展名](http://www.jianwill.cn/md/linux/linux-filetype.html)
    3. [linux命令（25）：Linux 文件属性详解](http://www.jianwill.cn/md/linux/linux-fileattr.html)
 4. 文件打包上传和下载
-   1. linux命令（26）：SecureCRT 上传和下载
+   1. [linux命令（26）：SecureCRT 上传和下载](http://www.jianwill.cn/md/linux/securecrt.html)
    2. linux命令（28）：tar 命令
    3. linux命令（32）：gzip 命令
 5. Linux文件权限设置
