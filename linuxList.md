@@ -49,7 +49,7 @@
    2. linux命令（28）：tar 命令
    3. linux命令（32）：gzip 命令
 5. Linux文件权限设置
-   1. linux命令（27）：chmod 命令
+   1. [linux命令（27）：chmod 命令](http://www.jianwill.cn/md/linux/chmod.html)
    2. linux命令（29）：chgrp 命令
    3. linux命令（30）：chown 命令
    4. linux命令（31）：/etc/group 文件详解
