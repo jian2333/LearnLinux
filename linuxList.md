@@ -51,7 +51,7 @@
 5. Linux文件权限设置
    1. [linux命令（27）：chmod 命令](http://www.jianwill.cn/md/linux/chmod.html)
    2. [linux命令（29）：chgrp 命令](http://www.jianwill.cn/md/linux/chgrp.html)
-   3. linux命令（30）：chown 命令
+   3. [linux命令（30）：chown 命令](http://www.jianwill.cn/md/linux/chown.html)
    4. linux命令（31）：/etc/group 文件详解
 6. 磁盘存储相关
    1. linux命令（33）：df 命令
