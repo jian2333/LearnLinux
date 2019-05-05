@@ -47,7 +47,7 @@
 4. 文件打包上传和下载
    1. [linux命令（26）：SecureCRT 上传和下载](http://www.jianwill.cn/md/linux/securecrt.html)
    2. [linux命令（28）：tar 命令](http://www.jianwill.cn/md/linux/tar.html)
-   3. linux命令（32）：gzip 命令
+   3. [linux命令（32）：gzip 命令](http://www.jianwill.cn/md/linux/gzip.html)
 5. Linux文件权限设置
    1. [linux命令（27）：chmod 命令](http://www.jianwill.cn/md/linux/chmod.html)
    2. [linux命令（29）：chgrp 命令](http://www.jianwill.cn/md/linux/chgrp.html)
