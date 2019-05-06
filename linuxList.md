@@ -54,7 +54,7 @@
    3. [linux命令（30）：chown 命令](http://www.jianwill.cn/md/linux/chown.html)
    4. [linux命令（31）：/etc/group 文件详解](http://www.jianwill.cn/md/linux/etcgroup.html)
 6. 磁盘存储相关
-   1. linux命令（33）：df 命令
+   1. [linux命令（33）：df 命令](http://www.jianwill.cn/md/linux/df.html)
    2. linux命令（34）：du 命令
 7. 性能监控和优化命令
    1. linux命令（44）：top 命令
