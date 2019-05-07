@@ -55,7 +55,7 @@
    4. [linux命令（31）：/etc/group 文件详解](http://www.jianwill.cn/md/linux/etcgroup.html)
 6. 磁盘存储相关
    1. [linux命令（33）：df 命令](http://www.jianwill.cn/md/linux/df.html)
-   2. linux命令（34）：du 命令
+   2. [linux命令（34）：du 命令](http://www.jianwill.cn/md/linux/du.html)
 7. 性能监控和优化命令
    1. linux命令（44）：top 命令
    2. linux命令（45）：free 命令
