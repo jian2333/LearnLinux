@@ -74,7 +74,7 @@
    9. linux命令（60）：scp命令
 9. 其他命令
    1. [linux命令（35）：ln 命令](http://www.jianwill.cn/md/linux/ln.html)
-   2. linux命令（36）：diff 命令
+   2. [linux命令（36）：diff 命令](http://www.jianwill.cn/md/linux/diff.html)
    3. linux命令（37）：date 命令
    4. linux命令（38）：cal 命令
    5. linux命令（39）：grep 命令
