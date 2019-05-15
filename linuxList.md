@@ -78,7 +78,7 @@
    3. [linux命令（37）：date 命令](http://www.jianwill.cn/md/linux/date.html)
    4. [linux命令（38）：cal 命令](http://www.jianwill.cn/md/linux/cal.html)
    5. [linux命令（39）：grep 命令](http://www.jianwill.cn/md/linux/grep.html)
-   6. linux命令（40）：wc 命令
+   6. [linux命令（40）：wc 命令](http://www.jianwill.cn/md/linux/wc.html)
    7. linux命令（41）：ps 命令
    8. linux命令（48）：watch 命令
    9. linux命令（49）：at 命令
