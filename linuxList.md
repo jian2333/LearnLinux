@@ -1,6 +1,6 @@
 ## 每天一个 linux 命令目录
 
-每天学习 1~3个 **Linux** 命令，以下为该系列目录。参考资料：
+每天学习 1个 **Linux** 命令，以下为该系列目录。参考资料：
 
 - [竹子-博客(.NET/Java/Linux/架构/管理/敏捷)](https://www.cnblogs.com/peida/archive/2012/12/05/2803591.html "每天一个linux命令") ；
 
