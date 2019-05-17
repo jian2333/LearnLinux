@@ -13,6 +13,7 @@
 - mac下终端与Linux会有所不同，关于配置文件：
   - **Linux** - /etc/bashrc；
   - **Mac_Terminal** - ~/.bash-profile；
+  - **Mac_Zsh** - ~/.zshrc；
 
 ### 目录
 
@@ -57,7 +58,7 @@
    1. [linux命令（33）：df 命令](http://www.jianwill.cn/md/linux/df.html)
    2. [linux命令（34）：du 命令](http://www.jianwill.cn/md/linux/du.html)
 7. 性能监控和优化命令
-   1. linux命令（44）：top 命令
+   1. [linux命令（44）：top 命令](http://www.jianwill.cn/md/linux/top.html)
    2. linux命令（45）：free 命令
    3. linux命令（46）：vmstat 命令
    4. linux命令（47）：iostat 命令
