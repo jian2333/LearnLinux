@@ -59,7 +59,7 @@
    2. [linux命令（34）：du 命令](http://www.jianwill.cn/md/linux/du.html)
 7. 性能监控和优化命令
    1. [linux命令（44）：top 命令](http://www.jianwill.cn/md/linux/top.html)
-   2. linux命令（45）：free 命令
+   2. [linux命令（45）：free 命令](http://www.jianwill.cn/md/linux/free.html)
    3. linux命令（46）：vmstat 命令
    4. linux命令（47）：iostat 命令
    5. linux命令（51）：lsof 命令
