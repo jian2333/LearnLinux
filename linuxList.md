@@ -12,7 +12,7 @@
 - **注意**，Linux里直接使用 **/** 是表示系统根目录，不是当前目录下；
 - mac下终端与Linux会有所不同，关于配置文件：
   - **Linux** - /etc/bashrc；
-  - **Mac_Terminal** - ~/.bash-profile；
+  - **Mac_Terminal** - ~/.bash_profile；
   - **Mac_Zsh** - ~/.zshrc；
 
 ### 目录
@@ -62,7 +62,7 @@
    2. [linux命令（45）：free 命令](http://www.jianwill.cn/md/linux/free.html)
    3. [linux命令（46）：vmstat 命令](http://www.jianwill.cn/md/linux/vmstat.html)
    4. [linux命令（47）：iostat 命令](http://www.jianwill.cn/md/linux/iostat.html)
-   5. linux命令（51）：lsof 命令
+   5. [linux命令（51）：lsof 命令](http://www.jianwill.cn/md/linux/lsof.html)
 8. 网络命令
    1. linux命令（52）：ifconfig 命令
    2. linux命令（53）：route 命令
