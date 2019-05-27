@@ -64,7 +64,7 @@
    4. [linux命令（47）：iostat 命令](http://www.jianwill.cn/md/linux/iostat.html)
    5. [linux命令（51）：lsof 命令](http://www.jianwill.cn/md/linux/lsof.html)
 8. 网络命令
-   1. linux命令（52）：ifconfig 命令
+   1. [linux命令（52）：ifconfig 命令](http://www.jianwill.cn/md/linux/ifconfig.html)
    2. linux命令（53）：route 命令
    3. linux命令（54）：ping 命令
    4. linux命令（55）：traceroute 命令
