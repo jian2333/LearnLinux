@@ -68,7 +68,7 @@
    2. [linux命令（53）：route 命令](http://www.jianwill.cn/md/linux/route.html)
    3. [linux命令（54）：ping 命令](http://www.jianwill.cn/md/linux/ping.html)
    4. [linux命令（55）：traceroute 命令](http://www.jianwill.cn/md/linux/traceroute.html)
-   5. linux命令（56）：netstat 命令
+   5. [linux命令（56）：netstat 命令](http://www.jianwill.cn/md/linux/netstat.html)
    6. linux命令（57）：ss 命令
    7. linux命令（58）：telnet 命令
    8. linux命令（59）：rcp 命令
