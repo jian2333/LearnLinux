@@ -72,7 +72,7 @@
    6. [linux命令（57）：ss 命令](http://www.jianwill.cn/md/linux/ss.html)
    7. [linux命令（58）：telnet 命令](http://www.jianwill.cn/md/linux/telnet.html)
    8. [linux命令（59）：rcp 命令](http://www.jianwill.cn/md/linux/rcp.html)
-   9. linux命令（60）：scp命令
+   9. [linux命令（60）：scp命令](http://www.jianwill.cn/md/linux/scp.html)
 9. 其他命令
    1. [linux命令（35）：ln 命令](http://www.jianwill.cn/md/linux/ln.html)
    2. [linux命令（36）：diff 命令](http://www.jianwill.cn/md/linux/diff.html)
